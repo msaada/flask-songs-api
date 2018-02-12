@@ -34,5 +34,6 @@ https://conda.io/docs/user-guide/install/macos.html
 2. Run the server:
 
     ```sh
+    source activate kata-python
     (kata-python) $ python app.py
     ```
