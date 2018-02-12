@@ -28,11 +28,11 @@ https://conda.io/docs/user-guide/install/macos.html
 1. Or just install dependencies:
 
     ```sh
-    (env) $ pip install -r requirements.txt
+    (kata-python) $ pip install -r requirements.txt
     ```
 
 2. Run the server:
 
     ```sh
-    (env) $ python app.py
+    (kata-python) $ python app.py
     ```
