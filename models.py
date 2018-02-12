@@ -1,5 +1,8 @@
 import sqlite3
 
+def init_db():
+    drop_table()
+    create_db()
 
 def drop_table():
     with sqlite3.connect('songs.db') as connection:
