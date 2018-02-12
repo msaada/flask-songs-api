@@ -16,6 +16,17 @@ http://docs.python-guide.org/en/latest/starting/install3/osx/
 https://conda.io/docs/user-guide/install/macos.html
 ```
 
+## Docs
+1. Flask
+```
+http://flask.pocoo.org/
+```
+
+2. SQLite for python
+```
+https://docs.python.org/3/library/sqlite3.html
+```
+
 ## Want to use this project?
 
 1. Fork/Clone
